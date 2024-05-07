@@ -1,7 +1,8 @@
-Hi! My name is Cem Olmez 😄
+HELLO WORLD! 
+My name is Cem Olmez 
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Istanbul, Turkey.
+I am a Self-Taught Front-End Developer based in Istanbul, Turkey.
 <br/>
 
 ### Skills
