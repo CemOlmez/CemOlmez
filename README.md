@@ -13,7 +13,7 @@ I am a Self-Taught Front-End Developer based in Istanbul, Turkey.
 ### Socials
 
 <div id="badges">
-  <a href="in/cem-ölmez-2787951a8">
+  <a href="www.linkedin.com/in/cemolmez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
